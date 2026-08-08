@@ -1,0 +1,13 @@
+{"timestamp":3256087,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","loadfail_reason":"N/A","can_load":"true","glean_timestamp":"1781137572875"}}
+{"timestamp":3256087,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","path_key":"clean","glean_timestamp":"1781137572876","can_load":"true"}}
+{"timestamp":3256088,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","glean_timestamp":"1781137572876","shutdown_ok":"false"}}
+{"timestamp":3263615,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1781137580404","setting":"required"}}
+{"timestamp":3267912,"category":"protocolhandler.mailto","name":"visit","extra":{"glean_timestamp":"1781137584701","triggered_externally":"true"}}
+{"timestamp":3274914,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1781137591703","value":"error_notfounderror"}}
+{"timestamp":3279507,"category":"normandy","name":"expose_nimbus_experiment","extra":{"glean_timestamp":"1781137596296","featureId":"ipProtection","branchSlug":"mvp-beta","value":"vpn-limited-rollout"}}
+{"timestamp":3279507,"category":"nimbus_events","name":"exposure","extra":{"feature_id":"ipProtection","glean_timestamp":"1781137596296","branch":"mvp-beta","experiment":"vpn-limited-rollout"}}
+{"timestamp":3283539,"category":"nimbus_events","name":"startup_database_consistency","extra":{"primary":"database","glean_timestamp":"1781137600328","total_store_count":"31","total_db_count":"31","db_active_count":"31","store_active_count":"31","trigger":"startup"}}
+{"timestamp":3289143,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"error_notfounderror","glean_timestamp":"1781137605932"}}
+{"timestamp":3292470,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1781137609258","value":"null"}}
+{"timestamp":3298296,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1781137615084"}}
+{"timestamp":3298381,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1781137615170"}}

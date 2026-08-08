@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ayce-7/Pictures/SF-hp.png" added="2026-06-11T16:27:21.302034Z" modified="2026-07-24T01:05:19.288182Z" visited="2026-06-11T16:27:21.302035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;imv-dir %F&apos;" modified="2026-07-24T01:05:19.288176Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayce-7/Pictures/IMG_8496.PNG" added="2026-07-21T23:44:01.163085Z" modified="2026-07-21T23:44:01.163092Z" visited="2026-07-21T23:44:01.163086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;pix %U&apos;" modified="2026-07-21T23:44:01.163088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

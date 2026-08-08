@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/7ayce/Downloads/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg" added="2026-06-05T20:10:18.388453Z" modified="2026-06-05T20:10:18.388462Z" visited="2026-06-05T20:10:18.388454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-05T20:10:18.388457Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Downloads/japan-artistic-5120x2880-25406.jpg" added="2026-06-05T20:24:35.193768Z" modified="2026-06-05T20:24:35.193776Z" visited="2026-06-05T20:24:35.193769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-05T20:24:35.193772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Downloads/pexels-steve-29738253.jpg" added="2026-06-05T20:31:38.386963Z" modified="2026-06-05T20:31:38.386972Z" visited="2026-06-05T20:31:38.386965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-05T20:31:38.386968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/search-for-nix.txt" added="2026-06-05T21:15:24.308853Z" modified="2026-06-05T21:15:24.308867Z" visited="2026-06-05T21:15:24.308855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-05T21:15:24.308860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/blue-abstract-5120x5120-25121.jpg" added="2026-06-06T00:26:46.678600Z" modified="2026-06-06T00:53:06.470102Z" visited="2026-06-06T00:26:46.678601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="localsend" exec="&apos;localsend %u&apos;" modified="2026-06-06T00:26:46.678604Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470096Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/brown-abstract-5120x5120-26438.jpg" added="2026-06-06T00:27:02.262029Z" modified="2026-06-06T00:53:06.470263Z" visited="2026-06-06T00:27:02.262030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="localsend" exec="&apos;localsend %u&apos;" modified="2026-06-06T00:27:02.262032Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/daniel-leone-v7daTKlZzaw-unsplash.jpg" added="2026-06-06T00:53:06.470131Z" modified="2026-06-06T00:53:06.470141Z" visited="2026-06-06T00:53:06.470132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/gargantua-black-3840x2160-11451.jpg" added="2026-06-06T00:53:06.470165Z" modified="2026-06-06T00:53:06.470174Z" visited="2026-06-06T00:53:06.470166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/gargantua-black-3840x2160-11455.jpg" added="2026-06-06T00:53:06.470196Z" modified="2026-06-06T00:53:06.470205Z" visited="2026-06-06T00:53:06.470197Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/gargantua-black-5200x3250-9621.jpg" added="2026-06-06T00:53:06.470227Z" modified="2026-06-06T00:53:06.470237Z" visited="2026-06-06T00:53:06.470228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg" added="2026-06-06T00:53:06.470285Z" modified="2026-06-06T00:53:06.470295Z" visited="2026-06-06T00:53:06.470286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470289Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/oppo-pad-4-pro-5120x5120-22261.png" added="2026-06-06T00:53:06.470316Z" modified="2026-06-06T00:53:06.470325Z" visited="2026-06-06T00:53:06.470316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470320Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/oppo-pad-4-pro-dark-5120x5120-22260.jpg" added="2026-06-06T00:53:06.470346Z" modified="2026-06-06T00:53:06.470355Z" visited="2026-06-06T00:53:06.470346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/pexels-steve-29738253.jpg" added="2026-06-06T00:53:06.470375Z" modified="2026-06-06T00:53:06.470383Z" visited="2026-06-06T00:53:06.470375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/planetary-horizon-5120x5120-26343.jpg" added="2026-06-06T00:53:06.470405Z" modified="2026-06-06T00:53:06.470414Z" visited="2026-06-06T00:53:06.470406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.470409Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/surreal-cherry-5120x2880-26233.jpg" added="2026-06-06T00:53:06.472476Z" modified="2026-06-06T00:53:06.472485Z" visited="2026-06-06T00:53:06.472477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/grey-abstract-5120x5120-26349.jpg" added="2026-06-06T00:53:06.472510Z" modified="2026-06-06T00:53:06.472519Z" visited="2026-06-06T00:53:06.472511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/japan-artistic-5120x2880-25406.jpg" added="2026-06-06T00:53:06.472540Z" modified="2026-06-06T00:53:06.472549Z" visited="2026-06-06T00:53:06.472541Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/macos-monterey-stock-black-dark-mode-layers-5k-6016x6016-5889.jpg" added="2026-06-06T00:53:06.472572Z" modified="2026-06-06T00:53:06.472581Z" visited="2026-06-06T00:53:06.472573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/macos-monterey-stock-green-dark-mode-layers-5k-6016x6016-5890.jpg" added="2026-06-06T00:53:06.472604Z" modified="2026-06-06T00:53:06.472614Z" visited="2026-06-06T00:53:06.472605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/macos-monterey-stock-green-light-layers-5k-8k-7680x7680-5891.jpg" added="2026-06-06T00:53:06.472636Z" modified="2026-06-06T00:53:06.472645Z" visited="2026-06-06T00:53:06.472637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472640Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7ayce/Pictures/macos-monterey-stock-orange-light-layers-5k-6016x6016-5894.jpg" added="2026-06-06T00:53:06.472668Z" modified="2026-06-06T00:53:06.472678Z" visited="2026-06-06T00:53:06.472669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T00:53:06.472672Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,12 @@
+2026/06/05-01:32:01.010 a56 Recovering log #9
+2026/06/05-01:32:01.052 a56 Level-0 table #11: started
+2026/06/05-01:32:01.072 a56 Level-0 table #11: 124511 bytes OK
+2026/06/05-01:32:01.083 a56 Delete type=0 #9
+2026/06/05-01:32:01.083 a56 Delete type=3 #7
+2026/06/05-01:32:47.220 a5a Compacting 3@0 + 0@1 files
+2026/06/05-01:32:47.261 a5a Generated table #13@0: 287 keys, 32188 bytes
+2026/06/05-01:32:47.261 a5a Compacted 3@0 + 0@1 files => 32188 bytes
+2026/06/05-01:32:47.317 a5a compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/05-01:32:47.319 a5a Delete type=2 #5
+2026/06/05-01:32:47.320 a5a Delete type=2 #8
+2026/06/05-01:32:47.320 a5a Delete type=2 #11

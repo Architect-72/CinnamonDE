@@ -1,0 +1,8 @@
+pix
+pix-debug
+sddm-theme-sugar-candy-git
+ttf-wps-fonts
+wps-office
+wps-office-debug
+yay
+yay-debug

@@ -1,0 +1,11 @@
+libxfce4windowing-Message: 00:06:50.122: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+libxfce4windowing-Message: 00:06:50.123: Failed to get _NET_WORKAREA; using full screen dimensions
+libxfce4windowing-Message: 00:06:50.123: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+libxfce4windowing-Message: 00:06:50.123: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(xfce4-session:395): xfce4-session-WARNING **: 00:06:50.166: No SSH authentication agent found
+gpg-agent: a gpg-agent is already running - not starting a new one
+libxfce4windowing-Message: 00:06:52.007: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:455): xfwm4-WARNING **: 00:06:52.305: Unsupported GL renderer (llvmpipe (LLVM 22.1.6, 256 bits)).

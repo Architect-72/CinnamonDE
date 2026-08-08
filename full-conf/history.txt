@@ -1,0 +1,384 @@
+    1  ls
+    2  whereis sddm
+    3  sudo pacman -S cinnamon
+    4  systemctl enable sddm
+    5  exit
+    6  sudo pacman -S kitty nautilus 
+    7  exit
+    8  sudo pacman -Rns nemo
+    9  sudo pacman -Syu
+   10  sudo pacman -Ss xfce4 terminal
+   11  sudo pacman -Ss xfce4-terminal
+   12  sudo pacman -Ss xfce4-terminal
+   13  sudo pacman -Ss xfce4-terminal
+   14  sudo pacman -Ss xfce4-terminal
+   15  sudo pacman -Ss xfce4-terminal
+   16  loadkeys uk
+   17  exit
+   18  sudo pacman -Ss firefox
+   19  sudo pacman -Ss xfce4-terminal
+   20  sudo pacman -S firefox xfce4-terminal
+   21  whereis htop
+   22  sudo pacman -S htop
+   23  sudo pacman -S neofetch
+   24  sudo pacman -Ss neofetch
+   25  firefox & disown
+   26  whereis git
+   27  git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1
+   28  ls
+   29  sudo mv WhiteSur-gtk-theme/ ~/Downloads
+   30  ls
+   31  cd ~/Downloads/
+   32  ls
+   33  cd ..
+   34  sudo pacman -Ss xrandr
+   35  sudo pacman -S xorg-xrandr
+   36  yay -Ss neofetch
+   37  whereis yay
+   38  git clone https://aur.archlinux.org/yay.git
+   39  cd yay/
+   40  makepkg -si
+   41  ls
+   42  cd pkg
+   43  ls
+   44  cd ..
+   45  cd src
+   46  ls
+   47  cd ~
+   48  whereis yay
+   49  cd yay/
+   50  nvim PKGBUILD
+   51  cd ~
+   52  sudo rm -rf ~/yay/
+   53  sudo pacman -Ss chromium
+   54  sudo pacman -S chromium
+   55  cd /usr/share/sddm/
+   56  ls
+   57  cd themes
+   58  ls
+   59  yay -Ss neofetch
+   60  sudo pacman -Ss nitch
+   61  yay -S neofetch
+   62  neofetch
+   63  ls
+   64  yay -Ss sddm-theme-sugar-candy-git
+   65  yay -S sddm-theme-sugar-candy-git
+   66  cd /etc/
+   67  ls
+   68  cd ~
+   69  sudo mkdir -p /etc/sddm.conf.d
+   70  sudo nvim /etc/sddm.conf.d/theme.conf
+   71  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   72  yay -S localsend-bin
+   73  exit
+   74  sudo nvim /etc/sddm.conf.d/theme.conf
+   75  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   76  sudo cp ~/Pictures/IMG_8496.PNG /usr/share/sddm/themes/Sugar-Candy/Backgrounds/
+   77  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   78  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   79  sudo cp ~/Pictures/IMG_8497.PNG /usr/share/sddm/themes/Sugar-Candy/Backgrounds/
+   80  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   81  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   82  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   83  sudo nvim /usr/share/sddm/themes/Sugar-Candy/theme.conf
+   84  exit
+   85  sudo su -
+   86  exit
+   87  chromium https://archlinux.org/
+   88  exit
+   89  cd ~/Downloads/
+   90  ls
+   91  cd WhiteSur-gtk-theme/
+   92  ls
+   93  ./install.sh
+   94  sudo pacman -Ss gtk2-engines-murrine
+   95  sudo pacman -Ss gtk2-engines-pixbuf
+   96  sudo pacman -Ss sassc 
+   97  sudo pacman -Ss optipng
+   98  sudo pacman -Ss libglib2.0-dev-bin
+   99  sudo pacman -Ss inkscape
+  100  sudo pacman -S inkscape optipng
+  101  cd ..
+  102  git clone  https://github.com/vinceliuice/WhiteSur-icon-theme.git --depth=1
+  103  ls
+  104  cd WhiteSur-icon-theme/
+  105  ./install.sh -a
+  106  cd ~/Downloads/WhiteSur-gtk-theme/
+  107  ls
+  108  ./install.sh -N
+  109  ./install.sh -l
+  110  ./install.sh -N -c dark
+  111  ./install.sh -l -c dark
+  112  cd ~
+  113  exit
+  114  search
+  115  install
+  116  sudo pacman -S --needed sassc optipng inkscape libglib2.0-dev libxml2-utils git
+  117  yay -Ss libglib2.0-dev
+  118  yay -Ss libxml2-utils
+  119  cd ~/Downloads/
+  120  ls
+  121  cd ~/.local/share/
+  122  ls
+  123  cd icons
+  124  ls
+  125  cd ..
+  126  #ls
+  127  ls
+  128  cd nautilus
+  129  ls
+  130  cd scripts
+  131  ls
+  132  cd ~
+  133  ls -a 
+  134  cd .config/
+  135  ls
+  136  cd nautilus
+  137  ls
+  138  cd ~
+  139  gsettings get org.cinnamon.desktop.interface gtk-theme
+  140  nautilus --version
+  141  cd ~/Downloads/WhiteSur-gtk-theme/
+  142  ls
+  143  nvim README.md 
+  144  cd ~
+  145  exit
+  146  cd .themes/
+  147  ls
+  148  exit
+  149  sudo pacman -S gnome-themes-extra adw-gtk-theme
+  150  cd ~/.config/
+  151  ls
+  152  cd gtk-4
+  153  cd gtk-4.0
+  154  ls
+  155  nvim settings.ini
+  156  cd ~
+  157  ls -a
+  158  cd .themes
+  159  ls
+  160  cd ~
+  161  whereis gnome-tweaks 
+  162  sudo pacman -Ss gnome-tweaks
+  163  sudo pacman -S gnome-tweaks
+  164  whereis unzip
+  165  sudo pacman -S unzip
+  166  sudo pacman -S --needed unzip
+  167  cd ~/Downloads/WhiteSur-gtk-theme/
+  168  ./install.sh -d ~/.themes -c dark
+  169  cd ~
+  170  echo $XDG_CURRENT_DESKTOP
+  171  pacman -Qi nautilus
+  172  gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+  173  gsettings get org.gnome.desktop.interface color-scheme
+  174  cd ~/Downloads/WhiteSur-gtk-theme/
+  175  ls
+  176  ./install.sh -d -N -l ~/.themes -c dark
+  177  ./install.sh -Nld ~/.themes -c dark
+  178  ./install.sh -d ~/.themes -N -l -c dark
+  179  sudo pacman -Ss xdg-desktop-portal-gtk
+  180  gsettings get org.gnome.desktop.interface color-scheme
+  181  cd .config/
+  182  ls
+  183  mkdir xdg-desktop-portal
+  184  ls
+  185  cd xdg-desktop-portal/
+  186  nvim portals.conf
+  187  cd ~
+  188  nvim .config/xdg-desktop-portal/portals.conf
+  189  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  190  neofetch
+  191  cd ~/Documents
+  192  ls
+  193  nvim 'libadwaita troubleshooting.txt'
+  194  ls
+  195  sudo pacman -Ss cutefish launcher
+  196  sudo pacman -Ss cutefish-launcher
+  197  sudo pacman -Ss cutefish
+  198  yay -Ss cutefish-launcher
+  199  whereis networkmanager
+  200  sudo pacman -Ss networkmanager
+  201  whereis NetworkManager
+  202  nmtui
+  203  cd ~/Documents/
+  204  ls
+  205  nvim 'Screenshot tools.txt'
+  206  ls
+  207  cd~
+  208  cd ~
+  209  sudo pacman -S plank
+  210  sudo pacman -Ss wps-office
+  211  yay -S wps-office ttf-wps-fonts
+  212  ~/.config/
+  213  cd ~/.config/
+  214  ls
+  215  cd neofetch
+  216  ls
+  217  nvim config.conf
+  218  cd ~
+  219  neofetch
+  220  sudo pacman -Ss flameshot
+  221  sudo pacman -Ss flamshot
+  222  sudo pacman -S flameshot
+  223  nvim ~/.config/neofetch/ config.conf
+  224  nvim ~/.config/neofetch/config.conf
+  225  exit
+  226  whereis plymouth
+  227  whereis refind
+  228  sudo pacman -S refind
+  229  fastfetch
+  230  neofetch
+  231  neofetch
+  232  whereis plymouth
+  233  sudo pacman -Syu
+  234  sudo pacman -Syu --no-confirm
+  235  sudo pacman -Syu
+  236  sudo pacman -S plymouth
+  237  sudo plymouthd
+  238  sudo plymouth --show-splash
+  239  sudo plymouth --quit
+  240  exit
+  241  sudo plymouthd
+  242  sudo plymouth --show-splash
+  243  sudo plymouth --quit
+  244  exit
+  245  cd /usr/share/plymouth/themes/spinner/
+  246  ls
+  247  spinner.plymouth
+  248  nvim spinner.plymouth
+  249  sudo plymouthd
+  250  sudo plymouth --show-splash
+  251  sudo plymouth --quit
+  252  exit
+  253  cd /usr/share/plymouth/themes
+  254  ls
+  255  sudo plymouth-set-default-theme -R spinner
+  256  cd ~
+  257  sudo cp /home/ayce-7/Downloads/scuderia-ferrari-hp-formula-1-vector-logo-seeklogo/scuderia-ferrari-hp-formula-1-Logo.png /usr/share/plymouth/themes/spinner/watermark.png
+  258  sudo plymouth-set-default-theme -R spinner
+  259  sudo nvim /usr/share/plymouth/themes/spinner/spinner.plymouth
+  260  sudo nvim /etc/mkinitcpio.conf
+  261  sudo mkinitcpio -P
+  262  exit
+  263  sudo nvim /etc/default/grub
+  264  sudo grub-mkconfig -o /boot/grub/grub.cfg
+  265  gsettings set org.desktop.interface color-scheme 'prefer-dark'
+  266  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  267  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  268  gsettings set org.gnome.desktop.interface color-scheme dark
+  269  gsettings set org.gnome.desktop.interface color-scheme 'dark'
+  270  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  271  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  272  sudo nvim /usr/share/plymouth/themes/spinner/spinner.plymouth
+  273  exit
+  274  sudo cp /home/ayce-7/Downloads/scuderia-ferrari-hp-formula-1-vector-logo-seeklogo/scuderia-ferrari-hp-formula-1-Logo.png ~/Pictures/SF-hp.png
+  275  cp /home/ayce-7/Downloads/scuderia-ferrari-hp-formula-1-vector-logo-seeklogo/scuderia-ferrari-hp-formula-1-Logo.png ~/Pictures/SF-hp1.png
+  276  sudo rm -rf /usr/share/plymouth/themes/spinner/watermark.png
+  277  sudo cp /home/ayce-7/Pictures/SF-hp-modded.png /usr/share/plymouth/themes/spinner/watermark.png
+  278  exit
+  279  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  280  sudo plymouth-set-default-theme -R spinner
+  281  fastfetch
+  282  neofetch
+  283  ls -a
+  284  history > history.txt
+  285  nvim history.txt 
+  286  sudo pacman -Syu
+  287  ls
+  288  git clone https://github.com/Architect-72/Xfce4DE.git
+  289  sudo pacman -Ss mpv
+  290  sudo pacman -Ss neofetch
+  291  sudo pacman -Ss wps-office
+  292  sudo pacman -Ss adw-gtk-theme
+  293  cd Xfce4DE/
+  294  cd scripts
+  295  whereis openssh
+  296  sudo pacman -Ss openssh
+  297  ls
+  298  nvim install-packages.sh 
+  299  nvim setup-plymouth.sh 
+  300  nvim stow.sh
+  301  nvim sddm.sh
+  302  cd ..
+  303  nvim install.sh 
+  304  cd scripts
+  305  nvim setup-refind.sh 
+  306  nvim stow.sh
+  307  cd ..
+  308  cd ..
+  309  mv Xfce4DE/ CinnamonDE
+  310  ls
+  311  cd CinnamonDE/
+  312  ls
+  313  mv xfce/ Cinnamon
+  314  ls
+  315  mv Cinnamon cinnamon
+  316  ls
+  317  cd ..
+  318  ls 
+  319  ls -a
+  320  cd .confid
+  321  cd .config
+  322  ls
+  323  cd autostart/
+  324  ls
+  325  cd ~
+  326  cd CinnamonDE/
+  327  cd packages/
+  328  ls
+  329  rm -rf packages.txt 
+  330  rm -rf services.txt 
+  331  rm -rf aur.txt 
+  332  ls
+  333  ls 0a
+  334  ls -a
+  335  cd ~
+  336  ls
+  337  ls -a
+  338  cd CinnamonDE/
+  339  cd packages/
+  340  ls
+  341  sudo pacman -Qeq > packages.txt
+  342  sudo pacman -Qqm > aur.txt
+  343  sudo systemctl list-unit-files --state=enabled --no-pager --no-legend | awk '{print $1}' > services.txt
+  344  ls
+  345  nvim services.txt 
+  346  nvim packages.txt 
+  347  nvim aur.txt 
+  348  pix
+  349  sudo pacman -Ss imv
+  350  sudo pacman -S imv
+  351  cd CinnamonDE/
+  352  cd packages/
+  353  nvim packages.txt 
+  354  cd ~
+  355  ls
+  356  cd .config
+  357  ls -a
+  358  cd cinnamon
+  359  ls
+  360  cd backgrounds/
+  361  ls
+  362  ls -a
+  363  nvim user-folders.lst 
+  364  cd ~
+  365  cd CinnamonDE/
+  366  ls
+  367  cd full-conf
+  368  ls
+  369  cd ..
+  370  sudo rm -rf ~/CinnamonDE/full-conf/
+  371  ls 
+  372  mkdir full-conf
+  373  ls
+  374  ls -a ~
+  375  sudo cp -R ~/.config ~/CinnamonDE/full-conf/
+  376  sudo cp -R ~/.icons ~/.local ~/.themes ~/.gtkrc-2.0 ~/CinnamonDE/full-conf/
+  377  cd ~
+  378  ls 
+  379  cd CinnamonDE/
+  380  cd scripts
+  381  ls
+  382  cd @
+  383  cd ~
+  384  history > history.txt

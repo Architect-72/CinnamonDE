@@ -1,0 +1,89 @@
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+(csd-media-keys:569): csd-media-keys-WARNING **: 01:53:02.987: Unable to get default sink
+/usr/bin/cinnamon-launcher:61: DeprecationWarning: This process (pid=761) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  self.cinnamon_pid = os.fork()
+Cjs-Message: 01:53:09.186: JS LOG: About to start Cinnamon (X11 backend)
+Cjs-Message: 01:53:10.135: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 0 ms
+Cjs-Message: 01:53:10.159: JS LOG: [LookingGlass/info] loading user theme: /home/ayce-7/.themes/WhiteSur-Dark/cinnamon/cinnamon.css
+Cjs-Message: 01:53:10.293: JS LOG: [LookingGlass/info] added icon directory: /home/ayce-7/.themes/WhiteSur-Dark/cinnamon
+
+(cinnamon:766): St-WARNING **: 01:53:10.437: parse_shadow_property: default case
+
+(cinnamon:766): St-WARNING **: 01:53:10.437: parse_shadow_property: default case
+Cjs-Message: 01:53:10.628: JS LOG: [LookingGlass/info] Animations: enabled (hardware rendering, enabled in settings)
+Cjs-Message: 01:53:10.697: JS LOG: [LookingGlass/info] NetworkManager agent: enabled
+Cjs-Message: 01:53:10.712: JS LOG: [LookingGlass/info] Cinnamon registered as the Polkit agent for the active session (2)
+Cjs-Message: 01:53:10.714: JS LOG: [LookingGlass/info] SSH agent: enabled
+Cjs-Message: 01:53:10.724: JS LOG: [LookingGlass/info] loaded at Fri Jul 24 2026 01:53:10 GMT+0100 (British Summer Time)
+Cjs-Message: 01:53:10.724: JS LOG: Cinnamon started at Fri Jul 24 2026 01:53:10 GMT+0100 (British Summer Time)
+Cjs-Message: 01:53:11.106: JS LOG: Failed to launch ibus-daemon: Failed to execute child process “ibus-daemon” (No such file or directory)
+Cjs-Message: 01:53:11.477: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Cjs-Message: 01:53:11.477: JS LOG: [LookingGlass/info] SearchProviderManager started in 2 ms
+
+(cinnamon:766): St-WARNING **: 01:53:11.504: parse_shadow_property: default case
+
+(cinnamon:766): St-WARNING **: 01:53:11.504: parse_shadow_property: default case
+
+(csd-power:553): csd-power-WARNING **: 01:53:11.690: ignoring critically low message as we are not on battery power
+
+(csd-color:552): csd-color-WARNING **: 01:53:11.738: failed to get edid: unable to get EDID for output
+
+(csd-color:552): csd-color-WARNING **: 01:53:11.800: unable to get EDID for xrandr-Virtual-1: unable to get EDID for output
+Cjs-Message: 01:53:11.925: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 01:53:11.950: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 160 ms
+Cjs-Message: 01:53:12.174: JS LOG: [LookingGlass/info] Loaded applet xrandr@cinnamon.org in 224 ms
+Cjs-Message: 01:53:13.269: JS LOG: [LookingGlass/info] Loaded applet user@cinnamon.org in 1095 ms
+Cjs-Message: 01:53:13.369: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 100 ms
+Cjs-Message: 01:53:13.894: JS LOG: [LookingGlass/info] cinnamon-screenshot: enable() called
+Cjs-Message: 01:53:14.080: JS LOG: [LookingGlass/info] CS: Transitions enabled
+Cjs-Message: 01:53:14.090: JS LOG: [LookingGlass/info] Loaded extension cinnamon-screenshot@hilyxx in 603 ms
+Cjs-Message: 01:53:14.534: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 444 ms
+Cjs-Message: 01:53:14.604: JS LOG: [LookingGlass/info] Loaded extension ArrangementOfButtonsOnWindowTitleBar@claudiux in 70 ms
+Cjs-Message: 01:53:14.768: JS LOG: [LookingGlass/info] Loaded extension transparent-panels@germanfr in 163 ms
+Cjs-Message: 01:53:14.778: JS LOG: [LookingGlass/info] ExtensionSystem started in 3315 ms
+Cjs-Message: 01:53:15.421: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 653 ms
+Cjs-Message: 01:53:15.807: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 386 ms
+Cjs-Message: 01:53:15.818: JS LOG: Enabling WindowAttentionHandler
+
+(nemo-desktop:814): Nemo-WARNING **: 01:53:15.906: Current gtk theme is not known to have nemo support (WhiteSur-Dark) - checking...
+Cjs-Message: 01:53:16.107: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 300 ms
+Cjs-Message: 01:53:16.843: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 736 ms
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.860: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.874: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.886: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.897: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.906: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.912: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.919: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(cinnamon:766): Clutter-WARNING **: 01:53:16.937: Attempting to add actor of type 'StBoxLayout' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+cinnamon-session-binary[524]: WARNING: t+23.34551s: Could not retrieve current screensaver active state: Timeout was reached
+Cjs-Message: 01:53:18.065: JS LOG: [LookingGlass/info] Loaded applet Cinnamenu@json in 1222 ms
+Cjs-Message: 01:53:18.184: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 119 ms
+Cjs-Message: 01:53:18.187: JS LOG: [LookingGlass/info] AppletManager started in 6966 ms
+Cjs-Message: 01:53:18.209: JS LOG: [LookingGlass/info] Cinnamon took 9021 ms to start
+Cjs-Message: 01:53:18.226: JS LOG: [LookingGlass/error] version is null
+Cjs-Message: 01:53:18.227: JS LOG: [LookingGlass/trace] 
+<----------------
+version_exceeds@/usr/share/cinnamon/js/misc/util.js:619:23
+_clientGot@/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:1836:34
+---------------->
+Nemo-Message: 01:53:19.452: nemo-desktop: session is cinnamon, establishing proxy
+
+(cinnamon:766): XApp-WARNING **: 01:53:25.051: Switcheroo-control doesn't appear to be running, checking for Ubuntu support...
+Cjs-Message: 01:53:25.150: JS LOG: [LookingGlass/info] GPU offload supported: false
+Cjs-Message: 01:53:26.251: JS LOG: calendar@cinnamon.org: Calendar events supported.
+
+(nemo-desktop:814): Nemo-WARNING **: 01:53:27.125: Action 'mount-archive.nemo_action' is missing dependency: gnome-disk-image-mounter
+Cjs-Message: 01:53:27.735: JS LOG: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.cinnamon.CalendarServer': unit failed
+cinnamon-session-binary[524]: WARNING: t+86.77141s: Could not retrieve current screensaver active state: Timeout was reached
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2800005
