@@ -15,7 +15,7 @@
 
 >You can do that by typing in the console:
 
- user@hostname ~ >$ git clone https://github.com/Architect-72/"repo of choice".git
+ user@hostname ~ >$ git clone https://github.com/Architect-72/"repo-of-choice".git
 
 >Once it's done cloning change directory (cd) into "dotfiles"
 
