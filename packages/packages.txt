@@ -20,7 +20,6 @@ htop
 inkscape
 lf
 libpulse
-linux
 linux-firmware
 mpv
 nautilus
@@ -37,6 +36,7 @@ refind
 ristretto
 sassc
 sddm
+stow
 sudo
 system-config-printer
 unzip
