@@ -7,7 +7,7 @@ cd $HOME/CinnamonDE
 sleep 5
 
 stow bash
-stow cinnamon
+#stow cinnamon
 stow themes
 stow pictures
 
